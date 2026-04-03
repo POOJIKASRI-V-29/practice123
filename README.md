@@ -4,3 +4,4 @@
 
 1.download git
 2.download vs code
+3.open git acount
