@@ -7,3 +7,5 @@
 3.open git acount
 4.open local folder
 5.open terminal
+6.open readme 
+7.modify it
